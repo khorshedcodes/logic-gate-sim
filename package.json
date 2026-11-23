@@ -1,9 +1,17 @@
 {
   "name": "logic-gate-sim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zero-dependency digital logic gates, truth table generator, and circuit simulator",
   "main": "index.js",
   "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khorshedcodes/logic-gate-sim.git"
+  },
+  "bugs": {
+    "url": "https://github.com/khorshedcodes/logic-gate-sim/issues"
+  },
+  "homepage": "https://github.com/khorshedcodes/logic-gate-sim#readme",
   "scripts": {
     "test": "node test.js"
   },
