@@ -1,0 +1,20 @@
+{
+  "name": "logic-gate-sim",
+  "version": "1.0.0",
+  "description": "Zero-dependency digital logic gates, truth table generator, and circuit simulator",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "logic-gates",
+    "boolean",
+    "digital-logic",
+    "circuit",
+    "truth-table",
+    "electronics"
+  ],
+  "author": "Khorshed Alam",
+  "license": "MIT"
+}
